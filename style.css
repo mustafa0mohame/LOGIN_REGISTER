@@ -1,0 +1,35 @@
+.navbar{
+    display: none;
+}
+ body{
+    background: url(contact_2.jpg) no-repeat;
+    background-size: cover;
+  }
+#form{
+    background: url(contact_2.jpg) no-repeat;
+    background-size: cover;
+    width: 70%;
+    padding: 40px;
+    margin:60px auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+}
+ .form-floating{
+    width: 60%;
+    padding: 40px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+}
+.form-floatin{
+    width: 60%;
+     padding: 40px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
